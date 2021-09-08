@@ -33,3 +33,13 @@ ul {
       margin-right: auto;
 
   }
+
+  body{
+      background-color: rgb(212, 180, 255);
+  }
+
+  p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+  }
