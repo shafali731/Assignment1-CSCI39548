@@ -21,20 +21,20 @@ ul {
   li a:hover {
     background-color: #111;
   }
-  li a:active {
-    background-color: rgb(75, 32, 32);
+  li a.active {
+    background-color: rgb(59, 58, 58);
   }
 
   h1{
       text-align: center;
   }
   #elephants_pic{
-      width: 50%;
+      width: 45%;
       height: auto;
       display: block;
       margin-left: auto;
       margin-right: auto;
-
+      border: 10px solid rgb(44, 0, 114)
   }
 
   body{
@@ -43,6 +43,7 @@ ul {
 
   p{
     text-align: center;
-    font-weight: bold;
-    font-size: 25px;
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
   }

@@ -22,6 +22,10 @@ ul {
     background-color: #111;
   }
 
+  li a.active {
+    background-color: rgb(59, 58, 58);
+  }
+
   h1{
       text-align: center;
   }
