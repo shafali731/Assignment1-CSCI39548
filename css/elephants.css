@@ -29,13 +29,20 @@ ul {
       text-align: center;
   }
   #elephants_pic{
-      width: 45%;
-      height: auto;
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      border: 10px solid rgb(44, 0, 114)
-  }
+    float: left;
+    width: 29%;
+    padding: 2%;
+    
+}
+#elephant_pictures{
+    height: 50%;
+    width: 100%;
+}
+#pic_wid{
+    width: 55vh; 
+    height: 55vh;
+    border: 5px solid rgb(44, 0, 114)
+}
 
   body{
       background-color: rgb(212, 180, 255);
