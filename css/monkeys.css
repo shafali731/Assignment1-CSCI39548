@@ -28,7 +28,8 @@ ul {
   h1{
       text-align: center;
   }
-  #elephants_pic{
+=======
+  #monkeys_pic{
     /* margin-left: 1%; */
     /* margin-right: 1%; */
     float: left;
@@ -37,7 +38,8 @@ ul {
     padding: 2%;
     
 }
-#elephant_pictures{
+=======
+#monkey_pictures{
     height: 50%;
     width: 100%;
     /* margin-left: 5%; */
